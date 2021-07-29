@@ -11,7 +11,7 @@ layout: feed
 	<author>
 		<name>James Nies</name>
 		<email>jnies@email.arizona.edu</email>
-        <email>james.l.nies@gmail.com</email>
+        	<email>james.l.nies@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
